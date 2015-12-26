@@ -2,6 +2,9 @@
 <head><title>mooie website</title</head>
 <body>
 <h1>paginatitel</h1>
-CONTENT KOMT LATER...
+<h2>subtitel</h2>
+<div class="nieuws">Wow... nieuws!</div>
+<div class="nieuws">Wow... meer nieuws!</div>
+<div class="nieuws">Wow... géén nieuws!</div>
 </body>
 </html>
