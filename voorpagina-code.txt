@@ -6,5 +6,6 @@
 <div class="nieuws">Wow... nieuws!</div>
 <div class="nieuws">Wow... meer nieuws!</div>
 <div class="nieuws">Wow... géén nieuws!</div>
+<div class="nieuws">Wow... géén nieuws!</div>
 </body>
 </html>
