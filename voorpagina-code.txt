@@ -3,9 +3,11 @@
 <body>
 <h1>paginatitel</h1>
 <h2>subtitel</h2>
+<div id="content">
 <div class="nieuws">Wow... nieuws!</div>
 <div class="nieuws">Wow... meer nieuws!</div>
 <div class="nieuws">Wow... géén nieuws!</div>
 <div class="nieuws">Wow... géén nieuws!</div>
+</div>
 </body>
 </html>
