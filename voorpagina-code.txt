@@ -1,2 +1,7 @@
 <html>
-<?html>
+<head><title>mooie website</title</head>
+<body>
+<h1>paginatitel</h1>
+CONTENT KOMT LATER...
+</body>
+</html>
