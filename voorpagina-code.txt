@@ -3,11 +3,18 @@
 <body>
 <h1>paginatitel</h1>
 <h2>subtitel</h2>
-<div id="content">
+<div id="content-erwin">
 <div class="nieuws">Wow... nieuws!</div>
 <div class="nieuws">Wow... meer nieuws!</div>
 <div class="nieuws">Wow... géén nieuws!</div>
 <div class="nieuws">Wow... géén nieuws!</div>
 </div>
+
+<div id="content-robert">
+<div class="nieuws">Ik wil kaas</div>
+<div class="nieuws">Ik wil kaas</div>
+<div class="nieuws">Ik wil kaas</div>
+</div>
+
 </body>
 </html>
